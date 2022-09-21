@@ -1,0 +1,1 @@
+pins.digital_write_pin(DigitalPin.P0, pins.digital_read_pin(DigitalPin.P0))
